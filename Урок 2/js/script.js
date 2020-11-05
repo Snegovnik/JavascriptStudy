@@ -1,0 +1,1 @@
+const numberofmovies = confirm('сколько фильмов вы уже посмотрели?');
